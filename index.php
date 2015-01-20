@@ -2,9 +2,9 @@
 
  
 
-$sApplicationId = 'YOUR_APPLICATION_ID';
+$sApplicationId = '410082289142337';
 
-$sApplicationSecret = 'YOUR_APPLICATION_SECRET';
+$sApplicationSecret = 'f3a0e4279c7c321676acbffcca316258';
 
 $iLimit = 99;
 
@@ -22,7 +22,7 @@ $iLimit = 99;
 
         <title>Facebook API - Get friends list | Script Tutorials</title>
 
-        <link href="css/main.css" rel="stylesheet" type="text/css" />
+        <link href="main.css" rel="stylesheet" type="text/css" />
 
     </head>
 
